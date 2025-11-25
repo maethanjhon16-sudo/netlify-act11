@@ -1,0 +1,20 @@
+{
+    "name": "netlify-supabase-upload",
+    "version": "1.0.0",
+    "description": "\"# netlify-act11\"",
+    "homepage": "https://github.com/maethanjhon16-sudo/netlify-act11#readme",
+    "bugs": {
+        "url": "https://github.com/maethanjhon16-sudo/netlify-act11/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/maethanjhon16-sudo/netlify-act11.git"
+    },
+    "license": "ISC",
+    "author": "",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        "build": "vite build"
+    }
+}
