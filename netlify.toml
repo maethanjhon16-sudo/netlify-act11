@@ -1,0 +1,6 @@
+[build]
+  functions = "netlify/functions"
+  publish = "dist" # or "." if using static root
+
+[dev]
+  command = "npm run start" # optional
